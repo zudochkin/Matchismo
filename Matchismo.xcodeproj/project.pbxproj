@@ -22,6 +22,7 @@
 		71465A91172D832D008BF84D /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = 71465A90172D832D008BF84D /* Deck.m */; };
 		719372A8172EF6830028F672 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 719372A7172EF6830028F672 /* PlayingCard.m */; };
 		719372AB172EFB060028F672 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 719372AA172EFB060028F672 /* PlayingCardDeck.m */; };
+		719372AF172F021E0028F672 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 719372AE172F021E0028F672 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		719372A7172EF6830028F672 /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCard.m; path = Model/PlayingCard.m; sourceTree = "<group>"; };
 		719372A9172EFB060028F672 /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PlayingCardDeck.h; path = Model/PlayingCardDeck.h; sourceTree = "<group>"; };
 		719372AA172EFB060028F672 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCardDeck.m; path = Model/PlayingCardDeck.m; sourceTree = "<group>"; };
+		719372AE172F021E0028F672 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		71465A70172D7CF5008BF84D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				719372AE172F021E0028F672 /* README.md */,
 				71465A78172D7CF5008BF84D /* CardGameAppDelegate.h */,
 				71465A79172D7CF5008BF84D /* CardGameAppDelegate.m */,
 				71465A71172D7CF5008BF84D /* Matchismo-Info.plist */,
@@ -192,6 +195,7 @@
 				71465A7E172D7CF5008BF84D /* Default@2x.png in Resources */,
 				71465A80172D7CF5008BF84D /* Default-568h@2x.png in Resources */,
 				71465A83172D7CF5008BF84D /* MainStoryboard.storyboard in Resources */,
+				719372AF172F021E0028F672 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
